@@ -342,6 +342,14 @@ p {
   transition: all 0.3s ease;
 }
 
+.assignment-box a {
+  color: black;
+}
+
+.assignment-box a:hover {
+  color: #0099ff;
+}
+
 .assignment-box:hover {
   box-shadow: 0 6px 24px rgba(0, 153, 255, 0.1);
   border-left: 4px solid #0099ff;
